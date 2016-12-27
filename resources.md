@@ -1,0 +1,5 @@
+- file:///Users/stijntonk/Downloads/www10_sarwar.pdf
+- http://files.grouplens.org/papers/FnT%20CF%20Recsys%20Survey.pdf
+- https://spark.apache.org/docs/latest/api/python/_modules/pyspark/ml/recommendation.html
+- https://gist.github.com/geofferyzh/2494809
+- https://en.wikipedia.org/wiki/Cosine_similarity
